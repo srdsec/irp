@@ -14,7 +14,7 @@ Incident Response Powershell Assistant Script
    None
 
 #### EXAMPLE
-   .\suiss-ir-adsearch.ps1
+   .\irp.ps1
 
 #### LINK
   [Add AD Module in Powershell] (https://blogs.msdn.microsoft.com/rkramesh/2012/01/17/how-to-add-active-directory-module-in-powershell-in-windows-7/)
